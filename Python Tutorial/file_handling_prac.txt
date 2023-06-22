@@ -1,4 +1,4 @@
-It is the first line of the file
+[1, "simple", "list"]56789abcdef
 It is the second line of the file.
 It is the third line of the file.
 It is the fourth line of the file 
